@@ -19,6 +19,8 @@ you@you:/path/to/folder$ source venv/bin/activate
 
 (venv) you@you:/path/to/folder$ pip3 install -r requirements.txt
 
+(venv) you@you:/path/to/folder$ ipython kernel install --user --name=<insert name of your venv>
+
 (venv) you@you:/path/to/folder$ jupyter notebook
 ```
 
