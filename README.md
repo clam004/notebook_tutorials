@@ -32,5 +32,5 @@ you@you:/path/to/folder$ pip3 freeze > requirements.txt
 
 
 $$
-e^{P(True)}
+\frac{e^{P(True)}}{e^{P(True)} + e^{P(False)}}
 $$
